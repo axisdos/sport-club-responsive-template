@@ -1,0 +1,151 @@
+body{
+	background-color: #232323;
+}
+
+h1, h2, h3, h4, h5, h6, i, p{
+	color: #fff;
+	font-family: 'Rajdhani', sans-serif;
+}
+
+.menu, .top-bar{
+	background-color: #333 !important;
+}
+
+.mainMenu{
+	margin-top: 10px;
+}
+
+.top-bar{
+	margin-top: 30px;
+}
+
+.top-bar li a{
+	padding: 15px;
+	color: #fff;
+}
+
+.menu a:hover{
+	background-color: #444;
+}
+
+.menu .active > a{
+	background-color: #c40c0c; 
+}
+
+
+.orbit, .classes, .contacts{
+	margin-top: 10px;
+}
+
+.orbit-caption{
+	background-color: #c40c0c;
+	color: #fff;
+	width: 55%;
+	opacity: 0.7;
+}
+
+.orbit-caption h1{
+	font-size: 2.768em;
+	font-weight: 300;
+	color: #fff;
+	text-transform: uppercase;
+	line-height: 1.3em;
+}
+
+.orbit-caption a{
+	color: #fff;
+}
+
+
+#icons{
+	max-width: 73.12rem;
+	text-align: center;
+	padding-top: 20px;
+	background-color: #000;
+	width: 100%;
+	overflow: hidden;
+}
+
+#icons i{
+	background-color: #333;
+	font-size: 60px;
+	border-radius: 50%;
+	padding: 30px;
+	margin-bottom: 5px;
+}
+
+
+.text-center img{
+	padding-bottom: 15px;
+}
+
+.callout{
+	background-color: #333;
+	color: #fff;
+	border: 1px solid #666;
+}
+
+
+.button.large{
+	position: relative;
+	bottom: 15px;
+	background-color: #c40c0c;
+}
+
+.button.large:hover{
+	background-color: #ccc;
+}
+
+
+.foot{
+	font-size: 18px;
+	background-color: #232323;
+	color: #fff;
+}
+
+.foot .menuBottom{
+	background-color: #232323;
+}
+
+.foot a{
+	color: #c40c0c;
+}
+
+.foot .menuBottom > li > a:hover{
+	background-color: #232323;
+}
+
+.foot>.menuBottom{
+	background-color: #232323 !important;
+}
+
+.foot ul li{
+	list-style: none;
+	float: left;
+	padding-right: 25px;
+}
+
+.rightSide{
+	padding-left: 55px;
+}
+
+.about .fa{
+	font-size: 90px;
+}
+
+.about h2, .classes h2{
+	padding-left: 30px;
+}
+
+
+.classes img{
+	margin-bottom: 25px;
+}
+
+label{
+	color: #fff;
+}
+
+.logo{
+	padding-top: 25px !important;
+}
